@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactOnlineTodo/static/css/main.b71985db.css",
+    "main.js": "/ReactOnlineTodo/static/js/main.96592a2a.js",
+    "static/js/787.06c0a840.chunk.js": "/ReactOnlineTodo/static/js/787.06c0a840.chunk.js",
+    "static/media/todo.png": "/ReactOnlineTodo/static/media/todo.e4a8a367e88fa87b08dc.png",
+    "static/media/empty.png": "/ReactOnlineTodo/static/media/empty.c535b954668d18ec38a3.png",
+    "static/media/logo.svg": "/ReactOnlineTodo/static/media/logo.403a4085b5d73d81486339a4e86f75f5.svg",
+    "static/media/loading.svg": "/ReactOnlineTodo/static/media/loading.9b54de22190a2fc2cd0227589fe63740.svg",
+    "index.html": "/ReactOnlineTodo/index.html",
+    "static/media/checked.svg": "/ReactOnlineTodo/static/media/checked.11af07911f2a32aae366.svg",
+    "static/media/checkbox.svg": "/ReactOnlineTodo/static/media/checkbox.8892bedc5e3fe8fb0168.svg",
+    "main.b71985db.css.map": "/ReactOnlineTodo/static/css/main.b71985db.css.map",
+    "main.96592a2a.js.map": "/ReactOnlineTodo/static/js/main.96592a2a.js.map",
+    "787.06c0a840.chunk.js.map": "/ReactOnlineTodo/static/js/787.06c0a840.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b71985db.css",
+    "static/js/main.96592a2a.js"
+  ]
+}
