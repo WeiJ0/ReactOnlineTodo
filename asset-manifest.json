@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ReactOnlineTodo/static/css/main.17cba99e.css",
-    "main.js": "/ReactOnlineTodo/static/js/main.d213b391.js",
-    "static/js/787.06c0a840.chunk.js": "/ReactOnlineTodo/static/js/787.06c0a840.chunk.js",
+    "main.css": "/ReactOnlineTodo/static/css/main.38f55014.css",
+    "main.js": "/ReactOnlineTodo/static/js/main.5a37c4e7.js",
+    "static/js/787.06469d7b.chunk.js": "/ReactOnlineTodo/static/js/787.06469d7b.chunk.js",
     "static/media/todo.png": "/ReactOnlineTodo/static/media/todo.e4a8a367e88fa87b08dc.png",
     "static/media/empty.png": "/ReactOnlineTodo/static/media/empty.c535b954668d18ec38a3.png",
     "static/media/logo.svg": "/ReactOnlineTodo/static/media/logo.403a4085b5d73d81486339a4e86f75f5.svg",
@@ -10,12 +10,12 @@
     "index.html": "/ReactOnlineTodo/index.html",
     "static/media/checked.svg": "/ReactOnlineTodo/static/media/checked.11af07911f2a32aae366.svg",
     "static/media/checkbox.svg": "/ReactOnlineTodo/static/media/checkbox.8892bedc5e3fe8fb0168.svg",
-    "main.17cba99e.css.map": "/ReactOnlineTodo/static/css/main.17cba99e.css.map",
-    "main.d213b391.js.map": "/ReactOnlineTodo/static/js/main.d213b391.js.map",
-    "787.06c0a840.chunk.js.map": "/ReactOnlineTodo/static/js/787.06c0a840.chunk.js.map"
+    "main.38f55014.css.map": "/ReactOnlineTodo/static/css/main.38f55014.css.map",
+    "main.5a37c4e7.js.map": "/ReactOnlineTodo/static/js/main.5a37c4e7.js.map",
+    "787.06469d7b.chunk.js.map": "/ReactOnlineTodo/static/js/787.06469d7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17cba99e.css",
-    "static/js/main.d213b391.js"
+    "static/css/main.38f55014.css",
+    "static/js/main.5a37c4e7.js"
   ]
 }
