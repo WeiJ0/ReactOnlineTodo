@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactOnlineTodo/static/css/main.38f55014.css",
+    "main.css": "/ReactOnlineTodo/static/css/main.e9d6558c.css",
     "main.js": "/ReactOnlineTodo/static/js/main.5a37c4e7.js",
     "static/js/787.06469d7b.chunk.js": "/ReactOnlineTodo/static/js/787.06469d7b.chunk.js",
     "static/media/todo.png": "/ReactOnlineTodo/static/media/todo.e4a8a367e88fa87b08dc.png",
@@ -10,12 +10,12 @@
     "index.html": "/ReactOnlineTodo/index.html",
     "static/media/checked.svg": "/ReactOnlineTodo/static/media/checked.11af07911f2a32aae366.svg",
     "static/media/checkbox.svg": "/ReactOnlineTodo/static/media/checkbox.8892bedc5e3fe8fb0168.svg",
-    "main.38f55014.css.map": "/ReactOnlineTodo/static/css/main.38f55014.css.map",
+    "main.e9d6558c.css.map": "/ReactOnlineTodo/static/css/main.e9d6558c.css.map",
     "main.5a37c4e7.js.map": "/ReactOnlineTodo/static/js/main.5a37c4e7.js.map",
     "787.06469d7b.chunk.js.map": "/ReactOnlineTodo/static/js/787.06469d7b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.38f55014.css",
+    "static/css/main.e9d6558c.css",
     "static/js/main.5a37c4e7.js"
   ]
 }
